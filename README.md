@@ -27,8 +27,6 @@ raspberry piに付けたボタンを押すとディスプレイに今日の天�
 ## 言語と使用フレームワーク
 言語：Python，C
 
-フレームワーク：ARKit，RealityKit
-
 ## 開発環境
 個人開発でraspberry piとLinuxを用いて開発を行いました．
 
